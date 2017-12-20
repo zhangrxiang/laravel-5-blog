@@ -1,3 +1,7 @@
 /bootstrap/compiled.php
 .env
 .idea
+/vendor
+.env.example
+composer.lock
+public/uploads/*
